@@ -1,6 +1,3 @@
-Nihad, əla fikirdir! README.md faylına "Technical Overview" (Texniki İcmal) hissəsi əlavə etmək layihəni daha sanballı göstərəcək. Aşağıdakı mətni kopyalayıb README.md faylının ən aşağısına və ya "Features" hissəsindən sonra yapışdıra bilərsən.
-
-Bu mətn həm ingilis dilindədir, həm də kodun arxasında duran məntiqi peşəkar şəkildə izah edir:
 🔍 Technical Architecture & Logic
 
 The GLADIO C2 system is built on three core pillars to ensure high performance and accurate diagnostic data:
